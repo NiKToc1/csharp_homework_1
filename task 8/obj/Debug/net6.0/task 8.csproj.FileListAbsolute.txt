@@ -1,0 +1,15 @@
+D:\gb\csharp_homework_1\task 8\obj\Debug\net6.0\task 8.csproj.AssemblyReference.cache
+D:\gb\csharp_homework_1\task 8\obj\Debug\net6.0\task 8.GeneratedMSBuildEditorConfig.editorconfig
+D:\gb\csharp_homework_1\task 8\obj\Debug\net6.0\task 8.AssemblyInfoInputs.cache
+D:\gb\csharp_homework_1\task 8\obj\Debug\net6.0\task 8.AssemblyInfo.cs
+D:\gb\csharp_homework_1\task 8\obj\Debug\net6.0\task 8.csproj.CoreCompileInputs.cache
+D:\gb\csharp_homework_1\task 8\bin\Debug\net6.0\task 8.exe
+D:\gb\csharp_homework_1\task 8\bin\Debug\net6.0\task 8.deps.json
+D:\gb\csharp_homework_1\task 8\bin\Debug\net6.0\task 8.runtimeconfig.json
+D:\gb\csharp_homework_1\task 8\bin\Debug\net6.0\task 8.dll
+D:\gb\csharp_homework_1\task 8\bin\Debug\net6.0\task 8.pdb
+D:\gb\csharp_homework_1\task 8\obj\Debug\net6.0\task 8.dll
+D:\gb\csharp_homework_1\task 8\obj\Debug\net6.0\refint\task 8.dll
+D:\gb\csharp_homework_1\task 8\obj\Debug\net6.0\task 8.pdb
+D:\gb\csharp_homework_1\task 8\obj\Debug\net6.0\task 8.genruntimeconfig.cache
+D:\gb\csharp_homework_1\task 8\obj\Debug\net6.0\ref\task 8.dll
